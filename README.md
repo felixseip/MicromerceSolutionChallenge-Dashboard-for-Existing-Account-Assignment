@@ -1,6 +1,4 @@
-# Example
-
-To run this example:
+To run this code:
 
 - `npm install` or `yarn`
 - `npm run start` or `yarn start`
